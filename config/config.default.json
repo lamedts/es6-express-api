@@ -1,0 +1,21 @@
+{
+    "verion": "",
+    "mongo_str": "",
+    "app_port": 8899,
+    "service": {
+        "partner_id": "",
+        "verion": "",
+        "host": "",
+        "path": "",
+        "terminal_id": "",
+        "branch_id": "",
+        "abc": "",
+        "redirect_uri": "",
+        "service_name": "",
+        "region_name": "",
+        "access_key": "",
+        "secret_key": "",
+        "x_api_key": "",
+        "private_key_name": ""
+    }
+}

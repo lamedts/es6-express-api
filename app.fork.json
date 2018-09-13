@@ -1,0 +1,8 @@
+{ 
+    "apps" : [{
+        "name" : "node-api",
+        "script" : "server.js",
+        "interpreter" : "node@10.8.0",
+        "exec_mode"  : "fork"
+   }]
+}
